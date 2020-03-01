@@ -5,11 +5,6 @@ def sel_sort(l):
 			if(l[Min]>l[i]):
 				Min = i
 		(l[start],l[Min]) = (l[Min], l[start])
-#li = input("Enter : ")
-#print(li)
-l=[98, 8, 67, 87, 782,55]
+l = list(map(int, input("Enter the List: ").split()))
 sel_sort(l)
 print("Sorted list is : ",l)
-
-
-
