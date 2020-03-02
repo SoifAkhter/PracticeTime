@@ -25,5 +25,5 @@ def merge_sort(X,left,right):
 		R = merge_sort(X,mid,right)
 		return merge(L,R)
 
-lst = [48,56,76,5,6,24,546]
+lst = list(map(int,input("Enter List: ")).split()))
 print("Sorted List: ",merge_sort(lst,0,len(lst)))
