@@ -10,6 +10,7 @@ def quick_sort(A,l,r):
 	quick_sort(A,l,yellow-1)
 	quick_sort(A,yellow,r)
 
-lst = [743,546,657,7,7,4,56,65,657,6,6,77,87878,3,2345,455,66,773,75]
+#lst = [743,546,657,7,7,4,56,65,657,6,6,77,87878,3,2345,455,66,773,75]
+lst = list(map(int,input("Enter List to sort: ").split()))
 quick_sort(lst,0,len(lst))
 print("Sorted List: ",lst)
