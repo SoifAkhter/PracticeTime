@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def maxSum(n, m, arr):
     buff = n//m
     r =n%m
@@ -12,3 +13,4 @@ def maxSum(n, m, arr):
 arr = [300,405,506,21,45,765,2352,65]
 arr.sort()
 print(arr)
+
