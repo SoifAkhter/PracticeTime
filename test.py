@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def maxSum(n, m, arr):
     buff = n//m
     r =n%m
