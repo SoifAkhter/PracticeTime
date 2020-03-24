@@ -9,6 +9,6 @@ def maxSum(n, m, arr):
         gr.append(arr[i:i+buff])
     print(gr) 
 
-arr = [300,405,506,21,45,765,2352,65]
+arr =(4,6,7)
 print(arr)
 
