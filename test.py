@@ -13,5 +13,5 @@ arr =(4,6,7)
 print(arr)
 
 lst = [43,545,67,7,8,999,45,34]
-print('-'.join(lst))
+print(','.join(lst))
 
