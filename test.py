@@ -9,7 +9,9 @@ def maxSum(n, m, arr):
         gr.append(arr[i:i+buff])
     print(gr) 
 
-arr =(4,6,7)
+    
+    
+arr =(4,6,7,9,89)
 print(arr)
 
 lst = [7,8,999,45,34]
