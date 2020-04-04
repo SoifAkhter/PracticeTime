@@ -1,4 +1,4 @@
-""" Node is defined as
+""" Node is defined as follow: 
 class node:
   def __init__(self, data):
       self.data = data
