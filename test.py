@@ -14,7 +14,7 @@ def maxSum(n, m, arr):
 arr =(4,6,7,9,89)
 print(arr)
 lst = [7,34]
-print(lst[1])
+print(lst)
 
 print(','.join(lst))
 
