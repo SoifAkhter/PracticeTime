@@ -15,6 +15,7 @@ arr =(4,7,9,89)
 print(arr)
 lst = [7,34]
 print(lst)
+print("Soif!")
 
 print(','.join(lst))
 
