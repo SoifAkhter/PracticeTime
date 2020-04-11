@@ -9,7 +9,7 @@ def andXorOr(a):
             m1 = m2
             m2 = a[i+1]
             maxx = m1+m2
-    print("Max: {} , m1: {}, m2: {}".format(maxx,m1,m2))
+    print("Max : {} , m1 : {}, m2 : {}".format(maxx,m1,m2))
     return (((m1 & m2) ^ (m1 | m2)) & (m1 ^ m2))
 print("Give Input: ")
 a_count = int(input())
