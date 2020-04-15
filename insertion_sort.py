@@ -6,7 +6,7 @@ def ins_sort(l):
 			l[pos-1], l[pos] = l[pos], l[pos-1]
 			pos -= 1
 
-l = [6,98,54,547,2,47,95,83,87,85,120]
+l = [5,3,43,7,97,4,656,54]
 ins_sort(l)
 
 print("Sorted List: ",l)

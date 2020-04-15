@@ -1,4 +1,4 @@
-def sumsub(ls,k):
+def ssumsub(ls,k):
 	if k==0:
 		return(sum(ls))
 	else:
@@ -13,6 +13,16 @@ def sumsub(ls,k):
 				if ls[0]<0:
 					ls.remove(ls[0])
 			return(sum(ls))
+
+def sumsub(ls,k):
+	if k==0:
+		return(sum(ls))
+	else:
+		ls.sort()
+		for i in range(min(len(ls),k)):
+			if ls[0]<0:
+				ls.remove(ls[0])
+	return(sum(ls))
 
 n,k= map(int,input().split())
 l=[]
