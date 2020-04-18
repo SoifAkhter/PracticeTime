@@ -1,4 +1,4 @@
-def maxSum(n, m, arr):
+def maxSum(n, m, arr): # function definition 
     buff = n//m
     r =n%m
     gr = []
