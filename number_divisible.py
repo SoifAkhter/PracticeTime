@@ -10,7 +10,8 @@ def findDiv(n):
             if n % i == 0:
                 count +=1
     return count
-
-t = int(input())
-for _ in range(t):
-    print(findDiv(int(input())))
+#
+# t = int(input())
+# for _ in range(t):
+#     print(findDiv(int(input())))
+print("Hello Samar!")
