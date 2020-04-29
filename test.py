@@ -1,6 +1,6 @@
 def maxSum(n, m, arr): # function definition 
     buff = n//m
-    r =n % m
+    r = n % m
     gr = []
     b = r*(buff+1)
     for i in range(0,b,buff+1):
