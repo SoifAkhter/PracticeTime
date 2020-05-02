@@ -17,5 +17,5 @@ lst = [7,34]
 print(lst[4])
 print("!")
 
-print('@'.join(lst))
+print('&'.join(lst))
 
