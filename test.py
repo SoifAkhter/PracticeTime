@@ -15,7 +15,7 @@ arr =(4,74,85,83,89)
 print(arr)
 lst = [7,34]
 print(lst[4])
-print("Hello! I'm Soif. ")
+print("Hello! I'm Soif ")
 
 print('**'.join(lst))
 
