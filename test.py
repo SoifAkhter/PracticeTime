@@ -17,5 +17,5 @@ lst = [7,3,4]
 print(lst[4])
 print("Hello! I'm Soif.")
 
-print('###'.join(lst))
+print('##'.join(lst))
 
