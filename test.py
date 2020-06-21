@@ -16,7 +16,7 @@ print(arr)
 lst = [7,3,4]
 print(lst[4])
 print("Hello! I'm Soif.")
-print("Thank You all!")
+print("One and only")
 
 print('##'.join(lst))
 
