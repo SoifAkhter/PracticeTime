@@ -19,5 +19,5 @@ print("Hello! I'm Soif.")
 print("One and only")
 print("AI with Deep Learning")
 
-print(*lst, end='? '))
+print(*lst, end='correct? '))
 
