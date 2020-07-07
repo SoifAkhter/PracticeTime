@@ -14,7 +14,7 @@ def maxSum(n, m, arr): # function definition
 arr =(4,85,83,5,90)
 print(arr)
 lst = [7,3,4]
-print(lst[4])
+print(lst[5])
 print("Hello! I'm Soif.")
 print("One and only")
 print("AI with Deep Learning")
