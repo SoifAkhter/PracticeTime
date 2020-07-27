@@ -1,4 +1,4 @@
-#!/bin/python3
+# Reverse of Linked List!
 
 import math
 import os
