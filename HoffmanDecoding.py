@@ -1,5 +1,5 @@
 import queue as Queue
-
+#Hoffman Coding!
 cntr = 0
 
 class Node:
